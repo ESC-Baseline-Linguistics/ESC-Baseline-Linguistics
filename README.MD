@@ -7,9 +7,9 @@
 <div align="center">
   <a href="https://github.com/ESC-Linguistic-Baselines/repo_name">
  <br>
-    <img src="readme_img/logo.png" alt="Logo" width="150" height="150">
+    <img src="readme_img/logo.svg" alt="Logo" width="650" height="450">
   </a>
-
+ 
  
 [![Stargazers][stars-shield]][stars-url]  ![visitors][visitors-badge]
 
@@ -17,8 +17,8 @@
 <h3 align="center">ESC Baseline Linguistics</h3>
 
   <p align="center">
-      <br />
-    <br />
+ 
+  
  
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=ESC-Linguistic-Baselines&theme=gruvbox_light)
